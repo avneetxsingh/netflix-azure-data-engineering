@@ -1,0 +1,15 @@
+{
+	"name": "NetflixManagement",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f99b324-e846-4065-84c9-2081fdb53433",
+		"tenantId": "5df7bfe8-c66e-4465-9a6b-7636fd5c6dd8"
+	}
+}
